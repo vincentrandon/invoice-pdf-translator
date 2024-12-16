@@ -21,7 +21,7 @@ A Python-based tool for processing and manipulating PDF files with features for 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vincentrandon/invoice-pdf-translator.git
 ```
 
 2. Install dependencies:
